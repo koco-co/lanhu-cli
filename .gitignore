@@ -13,3 +13,4 @@ htmlcov/
 *.html
 lanhu_data/
 .screenshot_cache.json
+.DS_Store
